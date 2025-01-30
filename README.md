@@ -1,4 +1,4 @@
-# DeepSeek Content Assistant
+ # DeepSeek Content Assistant
 
 
 
@@ -19,7 +19,7 @@
 ## Installation
 
 1. **Download the Plugin**:
-   - Download the latest release from the [Releases page](https://github.com/usmanshahid05/deepseek-content-assistant/releases).
+   - Download the latest release from the [Releases page](https://github.com/usmanshahid05/deepseek-content-assistant/).
 
 2. **Upload to WordPress**:
    - Go to your WordPress admin dashboard.
@@ -64,18 +64,6 @@ Yes, the plugin is free to use. However, you need a valid DeepSeek API key, whic
 ### Can I customize the tone of the generated content?
 Not in the current version, but this feature is planned for future updates.
 
----
-
-## Screenshots
-
-1. **Plugin Dashboard**  
-   ![Dashboard](https://yourwebsite.com/path/to/screenshot1.png)
-
-2. **API Settings Page**  
-   ![API Settings](https://yourwebsite.com/path/to/screenshot2.png)
-
-3. **Generated Content Example**  
-   ![Generated Content](https://yourwebsite.com/path/to/screenshot3.png)
 
 ---
 
