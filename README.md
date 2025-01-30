@@ -19,7 +19,7 @@
 ## Installation
 
 1. **Download the Plugin**:
-   - Download the latest release from the [Releases page](https://github.com/usmanshahid05/deepseek-content-assistant/).
+   - Download the latest release from the [Releases page](https://github.com/UsmanShahid05/WordPress_Plugins).
 
 2. **Upload to WordPress**:
    - Go to your WordPress admin dashboard.
